@@ -1,4 +1,4 @@
 # dnanexus_resources
 
-mark-section
-mark-success
+- mark-section
+- mark-success
